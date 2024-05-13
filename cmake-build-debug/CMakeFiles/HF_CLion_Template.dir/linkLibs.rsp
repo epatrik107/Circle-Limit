@@ -1,0 +1,1 @@
+  -L"C:/Users/User/Desktop/Egyetem/4.felev/grafika/3-hazi/HF_CLion_Template/Circle-Limit/lib"  -lopengl32 -lfreeglut -lglew32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
